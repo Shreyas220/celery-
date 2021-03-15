@@ -1,3 +1,1 @@
-# celery-
-
 ## Template for celery 
